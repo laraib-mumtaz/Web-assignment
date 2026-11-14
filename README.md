@@ -17,7 +17,7 @@ My Portfolio is a personal portfolio website for Laraib Mumtaz, a computer scien
 
 You can view the live project directly here:
 
-[My Portfolio Live Demo](#) *(https://laraib-mumtaz.github.io/Web-assignment/)*
+[My Portfolio Live Demo](https://laraib-mumtaz.github.io/Web-assignment/)
 
 Alternatively, to run it locally:
 
